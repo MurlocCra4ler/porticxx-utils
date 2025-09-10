@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/MurlocCra4ler/porticxx.git
+revision = HEAD
+depth = 1
+
+[provide]
+porticxx = porticxx_dep
